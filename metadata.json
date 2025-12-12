@@ -1,0 +1,7 @@
+{
+  "name": "Aman Live Voice Assistant",
+  "description": "Real-time conversational voice application using Gemini 2.5 Native Audio Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
